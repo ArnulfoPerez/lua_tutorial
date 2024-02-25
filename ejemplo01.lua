@@ -7,7 +7,7 @@ no muy corta
 sin sentido
 no aleatoria ]]
 
-io.write(LongString)
+io.write(LongString, "\n")
 
 --- Comentario de una linea
 ----[
