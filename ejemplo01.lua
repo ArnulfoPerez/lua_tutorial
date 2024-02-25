@@ -8,7 +8,8 @@ sin sentido
 no aleatoria ]]
 
 io.write(LongString, "\n")
-
+Name = 4
+io.write("number as text ", Name, "\n")
 --- Comentario de una linea
 ----[
 -- comentario multilinea
