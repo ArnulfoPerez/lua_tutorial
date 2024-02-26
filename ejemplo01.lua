@@ -9,7 +9,9 @@ no aleatoria ]]
 
 io.write(LongString, "\n")
 Name = 4
-io.write("number as text ", Name, "\n")
+io.write("number as number ", Name, "\n")
+io.write("number as string ", tostring(Name), "\n")
+io.write("number as boolean ", tostring(true), "\n")
 --- Comentario de una linea
 ----[
 -- comentario multilinea
